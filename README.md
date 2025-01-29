@@ -35,7 +35,7 @@ The service follows a modular architecture:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/OCR_PREDIBASE.git
+git clone https://github.com/rohandhupar1996/paperface-llm.git
 cd OCR_PREDIBASE
 ```
 
