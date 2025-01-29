@@ -1,0 +1,10 @@
+{
+    "predibase":
+    {   "api_token":"pb_UIWHmI5LXDaEDx8yuNa0mg",
+        "model":"pb://deployments/mistral-7b-instruct-v0-2",
+        "temprature":0.0011,
+        "context_window":4000
+    }
+  
+}
+  

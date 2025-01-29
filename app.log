@@ -1,0 +1,528 @@
+src.services.predibase_llm_engine - ERROR - Failed to initialize predibase_llm: [Errno 2] No such file or directory: 'src/configs/configs.json'
+src.services.predibase_llm_engine - ERROR - Failed to initialize predibase_llm: name 'json' is not defined
+src.services.predibase_llm_engine - ERROR - Failed to initialize predibase_llm: 'temperature'
+src.services.predibase_llm_engine - ERROR - Failed to initialize predibase_llm: name 'PredibaseClient' is not defined
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'predibase' object has no attribute 'experience_parser'
+AttributeError: 'predibase' object has no attribute 'experience_parser'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - ERROR - Failed to initialize predibase_llm: 'temperature'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: unsupported operand type(s) for +: 'dict' and 'str'
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: unsupported operand type(s) for +: 'dict' and 'str'
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: name 'json_output' is not defined
+NameError: name 'json_output' is not defined. Did you mean: 'json_to_text'?
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: unsupported operand type(s) for +: 'dict' and 'str'
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: unsupported operand type(s) for +: 'dict' and 'str'
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: unsupported operand type(s) for +: 'dict' and 'str'
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'get'
+AttributeError: 'str' object has no attribute 'get'
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: predibase.experience_parser() takes 1 positional argument but 2 were given
+TypeError: predibase.experience_parser() takes 1 positional argument but 2 were given
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: predibase.experience_parser() takes 1 positional argument but 2 were given
+TypeError: predibase.experience_parser() takes 1 positional argument but 2 were given
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: name 'pdf_path' is not defined
+NameError: name 'pdf_path' is not defined
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: name 'options' is not defined
+NameError: name 'options' is not defined
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: name 'ocr_output' is not defined
+NameError: name 'ocr_output' is not defined
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: LLMDeployment.generate() got an unexpected keyword argument 'max_new_tokens'
+TypeError: LLMDeployment.generate() got an unexpected keyword argument 'max_new_tokens'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'json'
+AttributeError: 'str' object has no attribute 'json'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'json'
+AttributeError: 'str' object has no attribute 'json'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: Object of type JSONResponse is not JSON serializable
+TypeError: Object of type JSONResponse is not JSON serializable
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: name 'result' is not defined
+NameError: name 'result' is not defined. Did you mean: 'results'?
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: Object of type JSONResponse is not JSON serializable
+TypeError: Object of type JSONResponse is not JSON serializable
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'json'
+AttributeError: 'str' object has no attribute 'json'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'json'
+AttributeError: 'str' object has no attribute 'json'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'str' object has no attribute 'json'
+AttributeError: 'str' object has no attribute 'json'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+src.controller.routes - ERROR - Failed to process file 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf: 'JSONResponse' object has no attribute 'json'
+AttributeError: 'JSONResponse' object has no attribute 'json'
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase model: pb://deployments/mistral-7b-instruct-v0-2, Predibase context window: 4000, Predibase temperature: 0.0011
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.controller.routes - INFO - Authenticated user: admin
+src.controller.routes - INFO - Starting to process file: 1b65b3fa-df02-4c27-a3f5-39a148ac4f971685591435382.pdf
+root - INFO - Detected file type: PDF
+src.controller.routes - INFO - File type detected as PDF for file: 1b65b3fa-df02-4c27-a3f5-39a148ac4f971685591435382.pdf
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - OCR model loaded and configured.
+root - INFO - Document processed as: PDF
+root - INFO - OCR prediction executed successfully.
+root - INFO - Text extracted and written to file successfully.
+src.controller.routes - INFO - OCR and text extraction completed for file: 1b65b3fa-df02-4c27-a3f5-39a148ac4f971685591435382.pdf
+src.services.predibase_llm_engine - INFO - Processing file: /home/ubuntu/ONGRID_OCR_PREDIBASE/output_text.txt
+src.services.predibase_llm_engine - INFO - File content read successfully
+src.services.predibase_llm_engine - INFO - Model generation completed successfully.
+src.controller.routes - INFO - File 1b65b3fa-df02-4c27-a3f5-39a148ac4f971685591435382.pdf processed successfully with extracted data.
+src.controller.routes - INFO - Authenticated user: admin
+src.controller.routes - INFO - Starting to process file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+root - INFO - Detected file type: PDF
+src.controller.routes - INFO - File type detected as PDF for file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - OCR model loaded and configured.
+root - INFO - Document processed as: PDF
+root - INFO - OCR prediction executed successfully.
+root - INFO - Text extracted and written to file successfully.
+src.controller.routes - INFO - OCR and text extraction completed for file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+src.services.predibase_llm_engine - INFO - Processing file: /home/ubuntu/ONGRID_OCR_PREDIBASE/output_text.txt
+src.services.predibase_llm_engine - INFO - File content read successfully
+src.services.predibase_llm_engine - INFO - Model generation completed successfully.
+src.controller.routes - INFO - File 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf processed successfully with extracted data.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.controller.routes - INFO - Authenticated user: admin
+src.controller.routes - INFO - Starting to process file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+root - INFO - Detected file type: PDF
+src.controller.routes - INFO - File type detected as PDF for file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - OCR model loaded and configured.
+root - INFO - Document processed as: PDF
+root - INFO - OCR prediction executed successfully.
+root - INFO - Text extracted and written to file successfully.
+src.controller.routes - INFO - OCR and text extraction completed for file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+src.services.predibase_llm_engine - INFO - Processing file: /home/ubuntu/ONGRID_OCR_PREDIBASE/output_text.txt
+src.services.predibase_llm_engine - INFO - File content read successfully
+src.services.predibase_llm_engine - INFO - Model generation completed successfully.
+src.controller.routes - INFO - File 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf processed successfully with extracted data.
+src.controller.routes - INFO - Authenticated user: admin
+src.controller.routes - INFO - Starting to process file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+root - INFO - Detected file type: PDF
+src.controller.routes - INFO - File type detected as PDF for file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/db_resnet50-79bd7d70.pt
+root - INFO - Using downloaded & verified file: /home/ubuntu/.cache/doctr/models/crnn_vgg16_bn-9762b0b0.pt
+root - INFO - OCR model loaded and configured.
+root - INFO - Document processed as: PDF
+root - INFO - OCR prediction executed successfully.
+root - INFO - Text extracted and written to file successfully.
+src.controller.routes - INFO - OCR and text extraction completed for file: 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf
+src.services.predibase_llm_engine - INFO - Processing file: /home/ubuntu/ONGRID_OCR_PREDIBASE/output_text.txt
+src.services.predibase_llm_engine - INFO - File content read successfully
+src.services.predibase_llm_engine - INFO - Model generation completed successfully.
+src.controller.routes - INFO - File 00bf9aa7-c618-49a8-bc6a-c62210478c9b1685604663399 (2).pdf processed successfully with extracted data.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+root - INFO - PyTorch version 2.0.0 available.
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.services.predibase_llm_engine - INFO - Predibase initialized with model: pb://deployments/mistral-7b-instruct-v0-2, context window: 4000, temperature: 0.0011
+src.controller.routes - INFO - Authenticated user: admin
+src.controller.routes - INFO - Authenticated user: admin
+src.controller.routes - INFO - Authenticated user: admin
